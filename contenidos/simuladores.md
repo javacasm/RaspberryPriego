@@ -1,13 +1,14 @@
-# Raspberry Pi: Introducción al uso y programación ([162319GE102](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=161807))
+# Curso Raspberry Pi Basico
 
-## CEP de Linares-Andújar
+## CEP Priego-Montilla
 
-11, 12 y 17 de Mayo de 2016
+Abril-Mayo 2018
 
 ![CC](./imagenes/Licencia_CC.png)
+
 ## José Antonio Vacas  @javacasm
 
-### [https://github.com/javacasm/RaspberryLinares](https://github.com/javacasm/RaspberryLinares)
+## [https://github.com/javacasm/RaspberryPriego](https://github.com/javacasm/RaspberryPriego)
 
 # Simuladores	
 
