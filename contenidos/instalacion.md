@@ -16,6 +16,7 @@ Abril 2019
 
 * Formatear tarjeta ([http://www.sdcard.org/downloads/formatter_4/](http://www.sdcard.org/downloads/formatter_4/))
 * Descargamos la imagen [http://www.raspberrypi.org/download](http://www.raspberrypi.org/download)
+* Escribimos en la tarjeta usando [etcher](https://www.balena.io/etcher/)
 * ¿Qué imagen usar?
 	* Empecemos con [Noobs](https://www.raspberrypi.org/blog/tag/noobs/)
 	* [Instalación](https://www.raspberrypi.org/help/noobs-setup/)

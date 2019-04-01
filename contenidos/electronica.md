@@ -12,6 +12,8 @@ Abril 2019
 
 # Electronica
 
+[Proyectos](https://projects.raspberrypi.org/en/)
+
 [Tutorial GPIO](https://bricolabs.cc/wiki/guias/raspberry_gpio)
 
 ## Cuidados
