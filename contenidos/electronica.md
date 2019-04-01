@@ -12,6 +12,8 @@ Abril 2019
 
 # Electronica
 
+[Tutorial GPIO](https://bricolabs.cc/wiki/guias/raspberry_gpio)
+
 ## Cuidados
 
 ## Adaptadores
@@ -60,3 +62,13 @@ proyectos básicos, pasando por componentes, como por ejemplo los
 transistores
 *  Página de documentación de la tienda yourduino: Páginas interesantes
 que he visto tratan sobre manejo de potencia con arduino, libros sobre
+
+## Robots
+
+[zerobot](https://www.thingiverse.com/thing:2352440)
+
+![zerobot](https://cdn.thingiverse.com/renders/a4/48/26/89/b2/c200276c9a8a68e2538f83dc438e61f1_preview_featured.JPG)
+
+[Smart Zero](https://www.thingiverse.com/thing:2727285)
+
+![Smart zero](https://cdn.thingiverse.com/renders/b2/e2/fa/57/54/8580f06ab82a9cf5ed57c2194e3115c5_preview_featured.JPG)

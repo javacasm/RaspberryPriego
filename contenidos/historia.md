@@ -46,4 +46,6 @@ Versión A (256MB)
 [Comparativa Raspberry 2](https://learn.adafruit.com/introducing-the-raspberry-pi-2-model-b?view=all)
 
 
+![Versiones](https://pbs.twimg.com/media/D2lcUbeX4AAG-cc?format=jpg&name=medium)
+
 [La llegada de los clones](./clones.md)

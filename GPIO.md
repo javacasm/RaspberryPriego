@@ -4,7 +4,7 @@
 
 Abril 2019
 
-![CC](./imagenes/Licencia_CC.png)
+![CC](./images/Licencia_CC.png)
 
 ## José Antonio Vacas  @javacasm
 
