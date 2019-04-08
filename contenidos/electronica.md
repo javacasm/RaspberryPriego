@@ -16,6 +16,12 @@ Abril 2019
 
 [Tutorial GPIO](https://bricolabs.cc/wiki/guias/raspberry_gpio)
 
+[Physical computing with Scratch](https://projects.raspberrypi.org/en/projects/physical-computing-with-scratch/10)
+
+[Physical computing with python](https://projects.raspberrypi.org/en/projects/physical-computing/4)
+
+[Semáforo con python](https://projects.raspberrypi.org/en/projects/interactive-traffic-lights-python/4)
+
 ## Cuidados
 
 ## Adaptadores
@@ -26,17 +32,30 @@ Abril 2019
 
 [Servo desde python](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-8-using-a-servo-motor?view=all)
 
+
 ![servo](https://learn.adafruit.com/system/assets/assets/000/003/489/medium800/learn_raspberry_pi_overview.jpg?1396797194)
 
 [Varios motores](https://learn.adafruit.com/adafruit-dc-and-stepper-motor-hat-for-raspberry-pi?view=all)
 
 ![motores](https://learn.adafruit.com/system/assets/assets/000/022/670/medium800/raspberry_pi_2348_iso_demo_01_ORIG.jpg?1422298425)
 
+[Steppers](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-10-stepper-motors)
+
 ## Sensores
 
 [Sensores de temperatura digitales](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing?view=all)
 
 ![ds](https://learn.adafruit.com/system/assets/assets/000/003/775/medium800/learn_raspberry_pi_summary.jpg?1396801585)
+
+[DHT11](https://www.raspberrypi-spy.co.uk/2017/09/dht11-temperature-and-humidity-sensor-raspberry-pi/)
+
+## Varios
+
+
+[RFID](https://learn.adafruit.com/adafruit-nfc-rfid-on-raspberry-pi)
+
+
+[neopixels](https://learn.adafruit.com/neopixels-on-raspberry-pi)
 
 ## Algunos enlaces
 
@@ -74,3 +93,5 @@ que he visto tratan sobre manejo de potencia con arduino, libros sobre
 [Smart Zero](https://www.thingiverse.com/thing:2727285)
 
 ![Smart zero](https://cdn.thingiverse.com/renders/b2/e2/fa/57/54/8580f06ab82a9cf5ed57c2194e3115c5_preview_featured.JPG)
+
+[Formula Pi](https://www.formulapi.com/)
