@@ -30,3 +30,7 @@ Facilitan la instalación de los entornos, que suele ser lo más complicado
 * [WebIDE](https://learn.adafruit.com/webide?view=all) Entorno Web que permite programar en Python, Ruby, Javascript y otros lenguajes
 
 ![webide](https://learn.adafruit.com/system/assets/assets/000/002/173/medium800/adafruit_products_Using2.jpg?1396780152)
+
+## [Node-red](https://learn.adafruit.com/raspberry-pi-hosting-node-red)
+
+## [Sonic-pi]()
