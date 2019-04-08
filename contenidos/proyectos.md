@@ -61,3 +61,5 @@ Abril 2019
 ## [Kano: portátil  basado en raspberrypi](http://www.raspberrypi-spy.co.uk/2016/04/kano-computer-kit-first-impressions/)
 
 ![kano](./imagenes/kano_kit_02-1024x683.jpg)
+
+## [Medida de calidad del aire](https://www.element14.com/community/community/raspberry-pi/raspberrypi_projects/blog/2019/03/14/indoor-air-quality-monitor)
