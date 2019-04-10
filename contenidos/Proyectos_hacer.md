@@ -42,6 +42,12 @@ Abril 2019
 
 [Midiendo el tiempo de reacci'on](https://projects.raspberrypi.org/en/projects/python-quick-reaction-game)
 
+[Cámara de seguridad con motion](https://www.raspberrypi.org/blog/raspberry-pi-security-camera-opencv/)
+
+[Síntesis de voz](https://learn.adafruit.com/speech-synthesis-on-the-raspberry-pi)
+
+[Procesamiento de voz](https://subscription.packtpub.com/book/all_books/9781786467966/2/ch02lvl1sec24/adding-voice-recognition)
+
 # Sonic-Pi
 
 [Programacion con Sonic-Pi](https://projects.raspberrypi.org/en/projects/getting-started-with-sonic-pi)
