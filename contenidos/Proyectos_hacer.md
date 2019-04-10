@@ -1,14 +1,15 @@
-# Raspberry Avanzado
+# Curso Raspberry Pi Basico
 
-Febrero-Marzo 2018
+## CEP Priego-Montilla
 
-## CEP Linares-Andujar ([182319GE077](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/182319GE077/))
+Abril 2019
 
-## https://github.com/javacasm/RaspberryAvanzado
+![CC](./imagenes/Licencia_CC.png)
 
-### José Antonio Vacas @javacasm
+## José Antonio Vacas  @javacasm
 
-![CC](./images/Licencia_CC.png)
+## [https://github.com/javacasm/RaspberryPriego](https://github.com/javacasm/RaspberryPriego)
+
 
 
 # Proyectos
