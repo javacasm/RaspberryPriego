@@ -89,3 +89,7 @@ Sólo nos queda dibujar estas imágenes de vuelta en nuestra raspberry
 ## Reconocimiento de caras
 
 [Reconocimiento de caras en 25 lineas de python](https://realpython.com/face-recognition-with-python/)
+
+## Reconocimiento de bordes
+
+https://programarfacil.com/blog/vision-artificial/detector-de-bordes-canny-opencv/
