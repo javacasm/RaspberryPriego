@@ -93,3 +93,7 @@ Sólo nos queda dibujar estas imágenes de vuelta en nuestra raspberry
 ## Reconocimiento de bordes
 
 https://programarfacil.com/blog/vision-artificial/detector-de-bordes-canny-opencv/
+
+## Deteccion de movimiento
+
+https://www.hackster.io/absoluteAbu/motion-detection-opencv-raspberry-pi-telegram-91fdf5
