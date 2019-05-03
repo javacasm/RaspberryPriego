@@ -84,3 +84,8 @@ Sólo nos queda dibujar estas imágenes de vuelta en nuestra raspberry
 	## las mostramos en pantalla
 	cv2.imshow("thresh",thresh)
 	cv2.imshow("img",img)
+	
+
+## Reconocimiento de caras
+
+[Reconocimiento de caras en 25 lineas de python](https://realpython.com/face-recognition-with-python/)
