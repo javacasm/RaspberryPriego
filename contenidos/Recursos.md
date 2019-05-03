@@ -21,3 +21,5 @@ Abril 2019
 https://wikitic.github.io
 
 https://learn.adafruit.com/category/learn-raspberry-pi?guide_page=3&total_count=53
+
+[Curso de ProgramoErgoSum](https://programoergosum.github.io/programacion-en-python-con-raspberry-pi/#/)
